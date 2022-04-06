@@ -10,10 +10,16 @@
         <b>Mã số sinh viên:</b> 20194383. \n
         <b>Mã học phần:</b> IT4785. \n
         <b>Mã lớp:</b> 132653. \n
-        <b>GVHD:</b> Thầy Hoàng Văn Hiệp. \n
-        <i>
-            chú thích: \n
-
+        <b>GVHD:</b> Thầy Hoàng Văn Hiệp. \n\n
+        <i>Note: \n
+            GitHub:\n
+            https://github.com/TienNg21/AndroidCodeLab \n
+            Email:\n
+            tien.nh194383@sis.hust.edu.vn,\n
+            nghuutien0912@gmail.com \n
         </i>
     </string>
+    <string name="example_text">
+        Example Text: \n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
 </resources>

@@ -43,8 +43,17 @@
                 android:id="@+id/article"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:padding="@dimen/padding_regular"
+                android:autoLink="web"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
                 android:text="@string/article"/>
+            <TextView
+                android:id="@+id/example"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_regular"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                android:text="@string/example_text"/>
         </LinearLayout>
 
     </ScrollView>
