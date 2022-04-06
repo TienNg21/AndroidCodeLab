@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidCodeLab</string>
+    <string name="heading">Android App made by TienNg21</string>
+    <string name="sub_heading">Môn học Phát triển Ứng dụng cho thiết bị di động 2021-2</string>
+    <string name="article">
+        <b><i>Bài tập tuần 2</i></b> \n
+        <i>Android Fundamentals 01.3:</i> \n
+        <i>Text and scrolling views</i> \n\n
+        <b>Sinh Viên:</b> Nguyễn Hữu Tiến. \n
+        <b>Mã số sinh viên:</b> 20194383. \n
+        <b>Mã học phần:</b> IT4785. \n
+        <b>Mã lớp:</b> 132653. \n
+        <b>GVHD:</b> Thầy Hoàng Văn Hiệp. \n
+        <i>
+            chú thích: \n
+
+        </i>
+    </string>
+</resources>
