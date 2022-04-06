@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/article_heading"
         android:background="@color/background_header"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/white"
         android:padding="@dimen/padding_regular"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         android:textStyle="bold"
